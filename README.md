@@ -11,3 +11,6 @@
 [简单的zjy2.icve刷课(课件)小脚本](https://github.com/Cyenoch/zjy2.icve)  
 [icveHelper](https://github.com/xinyunaha/icveHelper)  
 改动制作而成
+
+
+[Windows下载地址](https://github.com/shouzia/IcveSwipeVideo/releases/download/0.0.1/Windows-icve.exe)
